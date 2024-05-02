@@ -1,0 +1,5 @@
+2/05/2024
+el server esta terminado con 5 peticiones a la base de datos
+lo unico que falta, es lograr que no se suba el archivo key.ts y la carpeta build a github
+que posean una nueva contraseña (otra contraseña quemada).
+
