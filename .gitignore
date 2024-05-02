@@ -1,2 +1,5 @@
 server/node_modules/
 server/src/database/keys.ts
+server/build/
+server/build 
+build/

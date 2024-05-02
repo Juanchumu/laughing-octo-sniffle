@@ -3,7 +3,7 @@ import pool from '../database/database';
 
 class PersonaController { 
 	public index(req: Request, res: Response){
-		const query = 'DESCRIBE personas'
+		const query = 'DESCRIBE personas';
 		pool(query).then(
 			(result) => { res.json(result);}
 		).catch(
